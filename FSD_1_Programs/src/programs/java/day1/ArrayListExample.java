@@ -7,7 +7,7 @@ class ArrayListExample{
 		
 		ArrayList<String> al=new ArrayList<String>();  
 		
-		System.out.println("Initial size of Arraylist is "+ al.size());  // SIZE OF ARRAYLIST
+		System.out.println("Initial size of Arraylist is "+ al.size());  //SIZE OF ARRAYLIST
 		
 		al.add("Hai");   // ---> 0th
 		al.add("Hello"); // ---> 1st
